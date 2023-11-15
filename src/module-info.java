@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author renatocouto
+ *
+ */
+module padroesDeProjeto {
+}
