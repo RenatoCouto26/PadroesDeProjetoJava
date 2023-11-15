@@ -11,7 +11,7 @@ public class Executa {
 		CalculaImpostoContext calculaImposto = new CalculaImpostoContext();
 
 		System.out.println("O Valor do imposto para esse orçamento é: "
-				+ calculaImposto.calcular(new ICMS_Strategy(), new Orcamento(new BigDecimal("100"), 1)));
+				+ calculaImposto.calcular(new IPVA_Strategy(), new Orcamento(new BigDecimal("100"), 1)));
 
 	}
 
